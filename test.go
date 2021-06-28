@@ -1,4 +1,5 @@
 package main
+
 // Sema
 import (
 	"fmt"
@@ -7,6 +8,7 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Hello")
 	fmt.Println(quote.Go())
 }
